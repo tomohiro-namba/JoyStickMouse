@@ -1,2 +1,1 @@
-# JoyStickMouse
-ジョイスティックをマウス・キーボードの代替として使うためのアプリケーション
+# Hello, Pull Request
